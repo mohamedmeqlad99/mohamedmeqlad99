@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm mohamed meqlad</h1>
 <h3 align="center">A passionate data engineer</h3>
 
+- ✍🏼 visit the old GitHub account at [https://github.com/mohamedmm9](https://github.com/mohamedmm9) (closed for security reasons)
+
 - 🔭 I’m currently working on **data engineering career track**
 
 - 🌱 I’m currently learning **data engineering**
